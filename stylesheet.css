@@ -1,0 +1,23 @@
+.header{
+  background-color: #dddddd;
+  padding:20px;
+}
+
+.title {
+  font-size:50px;
+  color: #045FB4;
+  font-family:serif;
+  background-color:#dddddd;
+  opacity: 0.7;
+}
+img{
+  opacity: 0.8;
+
+}
+
+div{
+
+background-image:url(top.png);
+background-size:cover;
+
+}
