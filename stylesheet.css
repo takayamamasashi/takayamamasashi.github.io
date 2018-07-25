@@ -1,4 +1,3 @@
-
 .header{
   background-color: #dddddd;
   padding:20px;
@@ -12,12 +11,12 @@
   opacity: 0.7;
   align:center;
 }
-img{
+.img{
   opacity: 0.8;
 
 }
 
-div{
+.div{
 
 background-image:url(top.png);
 background-size:cover;
