@@ -1,3 +1,4 @@
+
 .header{
   background-color: #dddddd;
   padding:20px;
@@ -9,6 +10,7 @@
   font-family:serif;
   background-color:#dddddd;
   opacity: 0.7;
+  align:center;
 }
 img{
   opacity: 0.8;
