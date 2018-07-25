@@ -1,4 +1,5 @@
 
+
 .header{
   background-color: #dddddd;
   padding:20px;
@@ -13,6 +14,8 @@
   align:center;
 }
 .img{
+  width:2000px;
+  
   opacity: 0.8;
 
 }
