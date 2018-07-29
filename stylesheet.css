@@ -1,3 +1,5 @@
+
+
 22
 body{
    font-family:"Lucida Grande";
@@ -47,4 +49,8 @@ align:center;
 .selected{
    color: #045FB4;
    font-size:36px;
+}
+   footer{
+      padding:200px;
+      text-align:center;
 }
