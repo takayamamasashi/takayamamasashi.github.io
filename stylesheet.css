@@ -10,6 +10,7 @@ h2{
    font-family:"Lucida Grande";
 background-color:#dddddd;
    text-align:center;
+   opacity:0.5;
 }
 .title {
   font-size:60px;
@@ -32,4 +33,8 @@ background-color:#dddddd;
 background-image:url(top.png);
 background-size:cover;
 align:center;
+}
+
+.selected{
+   color:red;
 }
