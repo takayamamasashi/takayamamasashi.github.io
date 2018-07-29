@@ -1,3 +1,4 @@
+
 body{
    font-family:"Lucida Grande";
    background-color:#dddddd;
@@ -27,6 +28,7 @@ background-color:#ffff11;
 }
 p{
    font-size:27px;
+   background-color:#99cc00;
 }
 a{
   font-family:"メイリオ",Meiryo,sans-serif;
