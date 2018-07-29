@@ -6,6 +6,13 @@ body{
    
  }
 
+div{
+ background-image:url(https://www.city.sendai.jp/shiminkoho/shise/koho/koho/shisedayori/2017-04/images/housin_img_01.jpg);
+}
+h1{
+ color:white;
+}
+
 h2{
    font-family:"Lucida Grande";
 background-color:#ffff11;
@@ -39,12 +46,7 @@ a{
     color: #045FB4;
    text-decoration:none;
 }
-.div{
 
-background-image:url(top.png);
-background-size:cover;
-align:center;
-}
 
 .selected{
    color:black;
