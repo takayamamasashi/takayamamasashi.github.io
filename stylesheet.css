@@ -1,12 +1,15 @@
 
 
+
 body{
    font-family:"Lucida Grande";
  }
 
 h2{
+     color: #045FB4;
    font-family:"Lucida Grande";
 background-color:#dddddd;
+   text-align:center;
 }
 .title {
   font-size:60px;
