@@ -15,15 +15,11 @@ background-color:#dddddd;
   opacity: 0.7;
   align:center;
 }
-.img{
-  width:2000px;
-  
-  opacity: 0.8;
-}
  
  img{
-    width:1060px;
-    height:800px;
+    width:1360px;
+    height:950px;
+    opacity:0.4;
 }
 .a{
   font-family:sans-serif;
