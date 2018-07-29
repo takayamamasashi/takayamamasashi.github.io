@@ -1,6 +1,7 @@
 
 
 
+
 body{
    
    font-family:"Lucida Grande";
@@ -14,6 +15,8 @@ div{
  background-size:cover;
 }
 h1{
+   width:300px;
+   margin:0 auto;
  color:white;
 }
 
