@@ -1,6 +1,5 @@
 
 
-
 body{
    font-family:"Lucida Grande";
  }
@@ -10,7 +9,7 @@ h2{
    font-family:"Lucida Grande";
 background-color:#dddddd;
    text-align:center;
-   opacity:0.5;
+   opacity:0.8;
 }
 .title {
   font-size:60px;
