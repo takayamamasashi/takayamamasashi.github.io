@@ -26,6 +26,9 @@ background-color:#ffff11;
     opacity:0.6;
     
 }
+p{
+   font-size:20px;
+}
 a{
   font-family:"メイリオ",Meiryo,sans-serif;
    font-size:36px;
