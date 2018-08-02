@@ -1,5 +1,3 @@
-b
-
 
 
 body{
@@ -31,7 +29,7 @@ background-color:#ffff11;
 }
     
 }
-b{
+p{
    font-size:22px;
    background-color:#ffff11;
    padding-left:20px;
@@ -53,4 +51,5 @@ a{
    footer{
       padding:200px;
       text-align:center;
+      background-color:white;
 }
