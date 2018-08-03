@@ -42,14 +42,9 @@ a{
     color: #045FB4;
    text-decoration:none;
 }
-
-
-.selected{
-   color:black;
-   font-size:24px;
-}
    footer{
       padding:20 40px;
       text-align:center;
       background-color:white;
+      background-padding:30px;
 }
