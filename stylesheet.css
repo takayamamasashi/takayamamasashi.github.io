@@ -19,7 +19,6 @@ div{
 }
 
 h2{
- font-family:"Lucida Grande";
 background-color:#ffff11;
      color: #045FB4;
    margin-top:0;
@@ -43,7 +42,6 @@ background-color:#ffff11;
 
 }
 a{
-  font-family:"メイリオ",Meiryo,sans-serif;
    font-size:36px;
    text-align:center;
     color: #045FB4;
