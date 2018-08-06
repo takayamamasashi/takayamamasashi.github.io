@@ -11,13 +11,13 @@ div{
    height:600px;
     background:#000;
  background-image:url(https://www.city.sendai.jp/shiminkoho/shise/koho/koho/shisedayori/2017-04/images/housin_img_01.jpg);
-
-   opacity:.6;
+   opacity:0.2;
+}
 
 h2{
-   font-family:"Lucida Grande";
-background-color:#ffff11;
-   color:#045FB4;
+ font-family:"Lucida Grande";
+background-color:#ffff11;;
+  
   
 }
 .title {
