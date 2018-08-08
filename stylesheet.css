@@ -11,6 +11,7 @@ body{
 header{
 background-color:#26d0c9;
 height:120px;
+   margin-top:0;
 }
 .visual{
    height:600px;
