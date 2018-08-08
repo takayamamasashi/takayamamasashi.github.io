@@ -21,13 +21,14 @@ height:70px;
    font-size:30px;
    font-opacity:0.3;
     background-color:#000;
-   background-image:url("https://www.city.sendai.jp/shiminkoho/shise/koho/koho/shisedayori/2017-04/images/housin_img_01.jpg");
-   background-size:cover;
+   
 
 }
 
 img{
    opacity:0.6;
+   background-image:url("https://www.city.sendai.jp/shiminkoho/shise/koho/koho/shisedayori/2017-04/images/housin_img_01.jpg");
+   background-size:cover;
    
 }
 h2{
