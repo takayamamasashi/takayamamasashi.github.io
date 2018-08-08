@@ -1,4 +1,4 @@
-
+:
 body{
    
    font-family:"Avenir Next";
@@ -26,7 +26,7 @@ header h3{
    
 
 .visual{
-   height650px;
+   height:650px;
    text-align:center;
    font-size:30px;
    background-image:url("https://www.city.sendai.jp/shiminkoho/shise/koho/koho/shisedayori/2017-04/images/housin_img_01.jpg");
