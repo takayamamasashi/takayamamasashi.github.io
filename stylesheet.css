@@ -15,7 +15,8 @@ header{}
 }
 
 img{
-   opacity:0.4;
+   opacity:0.6;
+   background-size:cover;
 }
 h2{
 background-color:#ffff11;
