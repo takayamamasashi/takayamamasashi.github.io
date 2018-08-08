@@ -1,3 +1,4 @@
+
 body{
    
    font-family:"Avenir Next";
@@ -12,13 +13,18 @@ background-color:#006400;
    text-align:center;
    color:white;
    height:35px;
-   font-weight:normal;
+   
   
    position:fixed;
    top:0;
-   z-index:10;
- 
+   z-index:10;   
 }
+
+header h3{
+   font-weight:normal;
+   margin-top:0;
+}
+   
 .visual{
    height:300px;
    text-align:center;
