@@ -3,13 +3,14 @@ body{
    
    font-family:"Avenir Next";
    background-color:#f0f5fc;
-   opacity:0.7;
+   opacity:0.9;
    
  }
 
 
 header{
-background-color:white;
+background-color:#26d0c9;
+height:120px;
 }
 .visual{
    height:600px;
