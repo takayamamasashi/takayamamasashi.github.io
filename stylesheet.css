@@ -8,11 +8,12 @@ body{
 
 
 header{
-background-color:black;
-   text-align:center;
+background-color:#006400;
+   text-align:right;
    color:white;
-height:40px;
+   height:20px;
    font-weight:normal;
+  
    position:fixed;
    top:0;
    z-index:10;
