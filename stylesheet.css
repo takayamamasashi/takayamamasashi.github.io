@@ -3,7 +3,6 @@ body{
    
    font-family:"Avenir Next";
    background-color:#f0f5fc;
-   opacity:0.9;
    
  }
 
@@ -25,6 +24,7 @@ header h3{
    margin-top:0;
 }
    
+
 .visual{
    height:500px;
    text-align:center;
@@ -73,4 +73,5 @@ footer{
 span{
    background-color:#006400;
    color:white;
+   font-size:18px;
 }
