@@ -6,7 +6,11 @@ body{
    opacity:0.7;
    
  }
-header{}
+
+
+header{
+background-color:white;
+}
 .visual{
    height:600px;
    text-align:center;
