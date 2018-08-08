@@ -4,7 +4,9 @@ body{
    background-color:#f0f5fc;
    
  }
+header{}
 
+main{
 .visual{
    height:600px;
    text-align:center;
@@ -45,6 +47,11 @@ a{
    text-decoration:none;
 }
   
+   
+   
+}
+
+
 footer{
       margin:200px;
       padding:20 40px;
