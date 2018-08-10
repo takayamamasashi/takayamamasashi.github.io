@@ -9,7 +9,7 @@ body{
 
 
 header{
-background-color:#ffff11;
+background-color:#FF9999;
    text-align:center;
    height:35px;
    width:100%;
@@ -63,6 +63,6 @@ footer{
 
 
 span{
-   background-color:#ffff11;
-   font-size:18px;
+   background-color:#FF9999;
+   font-size:25px;
 }
