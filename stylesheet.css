@@ -2,7 +2,8 @@
 body{
    
    font-family:"Avenir Next";
-   background-color:#f0f5fc;
+  
+  background: linear-gradient(-135deg, #E4A972, #9941D8) fixed;
      color: #045FB4;
    
  }
