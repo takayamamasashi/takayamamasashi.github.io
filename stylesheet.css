@@ -1,3 +1,4 @@
+
 .
 body{
    font-family:"Avenir Next";
@@ -5,13 +6,16 @@ body{
     color: #fff; 
  }
    
+.main{
+   color:white;
+}
 .tag{   
-   font-size:40px;
+   font-size:42px;
    background-color:#008080;
    padding-left:20px;
 }
 a{
-   font-size:46px;
+   font-size:38px;
    align:center;
    text-decoration:none;
     
