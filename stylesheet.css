@@ -1,22 +1,21 @@
-2
+
 body{
    font-family:"Avenir Next";
   background: linear-gradient(-135deg, #E4A972, #9941D8) fixed;
     color: #fff; 
  }
    
-.main{
+ .main{
    color:white;
 }
-.tag{   
+ .tag{   
    font-size:40px;
    background-color:#008080;
    padding-left:20px;
 }
-a{
+ a{
    font-size:32px;
    text-decoration:none;
-   color:white;
-    
+   color:white;  
 }
   
