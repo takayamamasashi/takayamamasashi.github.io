@@ -6,22 +6,7 @@ body{
     color: #fff;
    
  }
-
-
-header{
-background-color:#555555;
-   color:white;
-   text-align:center;
-   height:35px;
-   width:100%;
    
-  
-   position:fixed;
-   top:0;
-   z-index:10;   
-}
-
-    
 .tag{   
    font-size:40px;
    background-color:#008080;
@@ -34,9 +19,6 @@ a{
    text-decoration:none;
 }
   
-   
-  
-
 
 footer{
       margin:200px;
