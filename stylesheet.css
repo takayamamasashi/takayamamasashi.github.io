@@ -1,4 +1,4 @@
-
+.
 body{
    
    font-family:"Avenir Next";
@@ -13,10 +13,11 @@ body{
    padding-left:20px;
 
 }
-a{
+.a{
    font-size:36px;
    text-align:center;
    text-decoration:none;
+   color:white;
 }
   
 
